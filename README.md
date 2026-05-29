@@ -522,6 +522,6 @@ The room serves as an excellent introduction to real-world penetration testing m
 **Saahil Gupta (ImperialX1104)**
 
 * GitHub: https://github.com/ImperialX1104
-* TryHackMe: ImperialX
+* TryHackMe: [ImperialX](https://tryhackme.com/p/HackXPro)
 
 ⭐ If you found this writeup useful, consider starring the repository and connecting with me on GitHub.
